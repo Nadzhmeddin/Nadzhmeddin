@@ -1,16 +1,11 @@
-## Hi there 👋
+## Всем привет! Или как принято Hello World!👋
+Наджмеддин, Java разработчик
+___________________________________________________________________________________________________
+Стек технологий: 
 
-<!--
-**Nadzhmeddin/Nadzhmeddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java 21 • Spring Boot • Spring Cloud • Spring MVC • Spring JDBC • Spring Data JPA • Spring Security
+PostgreSQL • Oracle DB • MySQL • JDBC • Hibernate • MapStruct • JSON • XML
+Kafka • RabbitMQ • Docker • Docker Compose • Git • Maven • OpenFeign
+JUnit 5 • Mockito • REST API • Swagger/OpenAPI
+___________________________________________________________________________________________________
+Связь Telegram : @proggern
